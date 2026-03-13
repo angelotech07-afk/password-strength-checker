@@ -1,5 +1,5 @@
 import re
-
+print("Password checker project by Angelo")
 def check_password_strength(password):
     score = 0
 
